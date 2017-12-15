@@ -1,0 +1,10 @@
+.article {
+
+}
+.article__inner {
+	height: 100%;
+	max-width: 960px;
+	padding: 80px 15px 80px;
+	margin-left: auto;
+	margin-right: auto;
+}

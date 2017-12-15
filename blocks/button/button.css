@@ -1,0 +1,29 @@
+.button {
+	display: inline-block;
+	height: 30px;
+	padding: 4px 16px;
+	border-radius: 4px;
+	text-align: center;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	cursor: pointer;
+	text-decoration: none;
+	letter-spacing: .4px;
+}
+.button_primary {
+	border: 1px solid #2980B9;
+	background-color: #2980B9;
+	color: #fff;
+}
+.button_primary:hover {
+	background-color: #296e9b;
+}
+.button_contour {
+	border: 1px solid #2980B9;
+	background-color: inherit;
+	color: #2980B9;
+}
+.button_contour:hover {
+	background-color: #2980b90d;
+}
